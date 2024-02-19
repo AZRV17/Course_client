@@ -1,3 +1,6 @@
 [submodule "Scraper"]
 	path = Scraper
 	url = https://github.com/AZRV17/Scraper.git
+[submodule "Coin_JS"]
+	path = Coin_JS
+	url = https://github.com/AZRV17/Coin_JS.git
