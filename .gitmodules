@@ -4,3 +4,6 @@
 [submodule "Coin_JS"]
 	path = Coin_JS
 	url = https://github.com/AZRV17/Coin_JS.git
+[submodule "front_css"]
+	path = front_css
+	url = https://github.com/AZRV17/front_css.git
