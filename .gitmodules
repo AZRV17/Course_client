@@ -1,0 +1,3 @@
+[submodule "Scraper"]
+	path = Scraper
+	url = https://github.com/AZRV17/Scraper.git
